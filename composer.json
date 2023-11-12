@@ -1,0 +1,18 @@
+{
+    "name": "propan/number-extractor",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Propan\\NumberExtractor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Дмитрий",
+            "email": "propan.learning@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
